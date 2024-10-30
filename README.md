@@ -2,7 +2,7 @@
 
 1. Clone / Download the repository
 ```bash
-git clone
+git clone git@github.com:likhith2003/ToDo_MERN.git
 ```
 
 2. Install dependencies
